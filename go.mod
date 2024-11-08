@@ -6,7 +6,7 @@ require (
 	github.com/aymanbagabas/go-osc52 v1.2.2
 	github.com/pquerna/otp v1.4.0
 	github.com/tobischo/gokeepasslib/v3 v3.6.0
-	golang.org/x/text v0.19.0
+	golang.org/x/text v0.20.0
 	mvdan.cc/sh/v3 v3.10.0
 )
 
